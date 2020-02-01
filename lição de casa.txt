@@ -1,0 +1,10 @@
+Get Attribute 'IMG': Não é possível encontrar o elemento de interface gráfica correspondente a este seletor: <webctrl aaname='FAIL' tag='IMG' />
+Get Text 'B': Não é possível encontrar o elemento de interface gráfica correspondente a este seletor: <webctrl css-selector='body&gt;table&gt;tbody&gt;tr&gt;td&gt;table&gt;tbody&gt;tr&gt;td&gt;table&gt;tbody&gt;tr&gt;td&gt;b&gt;b' tag='B' />
+
+
+lição d casa email diego@perftracker.com.br
+
+pegar 3 sites de noticias e tres manchetes e mandar para ele
+
+com html href 
+sendemail
